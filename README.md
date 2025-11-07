@@ -1,5 +1,5 @@
 <h1 id="ShravaniRakala-title">Hello there! I'm Shravani Rakala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
-<h3>I do Analytics & Data Engineering things</h3>
+<h3>I do Analytics, Software & Data Engineering things</h3>
 
 <p>
   <a href="https://github.com/shravanirakala">
@@ -7,7 +7,7 @@
 </p>
 
 <ul>
-  <li>:office: &nbsp;I'm a Senior Data Engineer, based in <b>Cambridge United Kingdom</b></li>
+  <li>:office: &nbsp;I'm a Senior Software Engineer, based in <b>Cambridge United Kingdom</b></li>
   <li>:speech_balloon: &nbsp;I work with <b>Python</b>, <b>SQL</b>, <b>AWS</b>, <b>Data Engineer Tools such as Spark</b>, <b>Airflow<b>, <b>Kafka</b></li>
   <li>:computer: &nbsp;Connect with me on <b><a href="https://www.linkedin.com/in/shravanirakala" alt="Shravani Rakala LinkedIn">LinkedIn</a></b></li>
 </ul>
